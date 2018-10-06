@@ -1,0 +1,28 @@
+body	{
+	font-family: 'Roboto Mono', monospace;
+	background: rgb(35, 35, 45);
+	color: #CACACC;
+	display: flex;
+	justify-content: center;
+}
+
+h1	{
+	font-weight: 400;
+}
+
+h2	{
+	color: rgb(80,80,80);
+	font-weight: 300;
+}
+
+a:link	{
+	color: #CACACC;
+}
+
+a:visited	{
+	color: #CACACC;
+}
+
+.links a	{
+	margin: 0 1em 0 0;
+}
