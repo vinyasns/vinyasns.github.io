@@ -23,23 +23,21 @@ h2	{
 	margin: 0 0 0.5em 0;
 }
 
-a:link	{
-	color: #CACACC;
-}
-
-a:visited	{
-	color: #CACACC;
-}
-
 .links	{
 	margin: 0 0 2em 0;
 }
 
 .links a	{
+	color: #CACACC;
 	margin: 0 1em 0 0;
 }
 
 .title	{
 	font-size: 1.5em;
 	font-weight: 700;
+}
+
+.projects a	{
+	text-decoration: none;
+	color: rgb(250, 100, 100);
 }
