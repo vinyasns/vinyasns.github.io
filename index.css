@@ -6,13 +6,20 @@ body	{
 	justify-content: center;
 }
 
+.container	{
+	max-width: 650px;
+}
+
 h1	{
 	font-weight: 400;
+	margin-bottom: 0.1em;
 }
 
 h2	{
 	color: rgb(80,80,80);
+	font-size: medium;
 	font-weight: 300;
+	margin: 0 0 1em 0;
 }
 
 a:link	{
