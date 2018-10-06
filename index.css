@@ -8,18 +8,19 @@ body	{
 
 .container	{
 	max-width: 650px;
+	font-size: 1em;
 }
 
 h1	{
 	font-weight: 400;
-	margin-bottom: 0.1em;
+	margin: 0 0 0 0;
 }
 
 h2	{
-	color: rgb(80,80,80);
-	font-size: medium;
+	color: rgb(90,90,90);
+	font-size: 400;
 	font-weight: 300;
-	margin: 0 0 1em 0;
+	margin: 0 0 0.5em 0;
 }
 
 a:link	{
@@ -30,6 +31,15 @@ a:visited	{
 	color: #CACACC;
 }
 
+.links	{
+	margin: 0 0 2em 0;
+}
+
 .links a	{
 	margin: 0 1em 0 0;
+}
+
+.title	{
+	font-size: 1.5em;
+	font-weight: 700;
 }
