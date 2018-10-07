@@ -1,6 +1,6 @@
 body	{
 	font-family: 'Roboto Mono', monospace;
-	background: rgb(35, 35, 45);
+	background: #23232d;
 	color: #CACACC;
 	display: flex;
 	justify-content: center;
@@ -40,4 +40,8 @@ h2	{
 .projects a	{
 	text-decoration: none;
 	color: rgb(250, 100, 100);
+}
+
+ul	{
+	list-style-color: blue;
 }
